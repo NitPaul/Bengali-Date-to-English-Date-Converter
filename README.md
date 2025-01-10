@@ -14,11 +14,14 @@ This Python program is designed to convert a Bengali date into its English date 
    git clone https://github.com/yourusername/Bengali-Date-to-English-Date-Converter.git
 
 2. **The Bengali date should be provided in the following format:**
-    "জানুয়ারি ৮, ২০২৫"
+   ```bash
+   জানুয়ারি ৮, ২০২৫
 
-3. **Running the Program: Run the script by executing the following command in your terminal:**
-    python Bengali(date)_to_English(date).py
+4. **Running the Program: Run the script by executing the following command in your terminal:**
+   ```bash
+   python Bengali(date)_to_English(date).py
 
-4. **Expected Output: After executing the script, it will print the corresponding English date in the format:**
-    January 8, 2025
+5. **Expected Output: After executing the script, it will print the corresponding English date in the format:**
+   ```bash
+   January 8, 2025
 
