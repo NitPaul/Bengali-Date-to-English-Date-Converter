@@ -19,7 +19,7 @@ This Python program is designed to convert a Bengali date into its English date 
 
 4. **Running the Program: Run the script by executing the following command in your terminal:**
    ```bash
-   python Bengali(date)_to_English(date).py
+   python Bengalidate_to_Englishdate.py
 
 5. **Expected Output: After executing the script, it will print the corresponding English date in the format:**
    ```bash
