@@ -1,3 +1,7 @@
+# MIT License
+# Copyright (c) 2025 Aonyendo Paul
+# See the LICENSE file for details.
+
 # Import necessary modules
 from datetime import datetime
 import time
